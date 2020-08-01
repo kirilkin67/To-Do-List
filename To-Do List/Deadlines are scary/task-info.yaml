@@ -297,5 +297,12 @@ files:
         ToDoList('todolist.todolist').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/105/stages/572/implement
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: |
+    Wrong answer in test #1
+
+    Your program doesn't show the menu from example
+      Make sure you didn't print any extra spaces
+  time: Sat, 01 Aug 2020 18:39:16 UTC
+record: 3
